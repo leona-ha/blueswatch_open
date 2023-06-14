@@ -1,4 +1,4 @@
-# Blueswatch: Development of a recommendation algorithm to evaluate the fit of therapeutic dyads
+# Blueswatch: Development of an algorithm to predict depression symptoms based on wearable data
 
 ## Literature 
 Abd-Alrazaq, A., AlSaad, R., Shuweihdi, F., Ahmed, A., Aziz, S., & Sheikh, J. (2023). Systematic review and meta-analysis of performance of wearable artificial intelligence in detecting and predicting depression. Npj Digital Medicine, 6(1), Article 1. https://doi.org/10.1038/s41746-023-00828-5
